@@ -1,5 +1,5 @@
 # P1-Music
-## ruta : P1-Music/Spring_1_Proyecto_1_MSM.ipynb
+## ruta : msmgxe/Data_Scientist/P1-Music/Spring_1_Proyecto_1_MSM.ipynb
 Proyecto en Data Scientist
 Hipótesis: 
 1. La actividad de los usuarios difiere según el día de la semana y dependiendo de la ciudad. 
