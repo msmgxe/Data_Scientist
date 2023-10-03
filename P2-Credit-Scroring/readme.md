@@ -1,5 +1,5 @@
 # P2-Credit-Scoring
-## ruta : P2-Credit-Scroring/Sprint_2_Proyecto_2_MSM.ipynb
+## ruta : msmgxe/Data_Scientist/P2-Credit-Scroring/Sprint_2_Proyecto_2_MSM.ipynb
 Proyecto en Data Scientist
 Hipótesis:
 
